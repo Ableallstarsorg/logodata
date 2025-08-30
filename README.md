@@ -5,7 +5,7 @@ Centralized storage for Able AllStars logo assets (PNG, PDF, AI, EPS).
 This repo contains all variations of the Able AllStars branding (ball color, black, white, icon+text) in multiple formats.
 
 ## 📦 Download Full Kit
-[![Download Repo](https://img.shields.io/badge/Download-Full%20Logo%20Kit-blue?style=for-the-badge&logo=github)](https://github.com/Ableallstarsorg/logodata/archive/refs/heads/main.zip)
+[![Download Logo Kit](https://img.shields.io/badge/Download-Logo%20Kit-blue?style=for-the-badge&logo=github)](https://github.com/Ableallstarsorg/logodata/releases/latest)
 
 ## Logo Variants & Usage
 
